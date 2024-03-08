@@ -1,0 +1,22 @@
+{
+  "name": "trungbinh-binhphuong-xacchuan",
+  "version": "1.0.2",
+  "description": "xacchuan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xacchuan/trungbinh-binhphuong-xacchuan.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "xacchuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xacchuan/trungbinh-binhphuong-xacchuan/issues"
+  },
+  "homepage": "https://github.com/xacchuan/trungbinh-binhphuong-xacchuan#readme"
+}
